@@ -1,0 +1,38 @@
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/src/pages/index.astro
+  s_977125af27853e::t_8f0addd503af78 1
+pnpm-lock.yaml
+  s_977125af27853e::t_bbe671b92736d2 3843-3848
+packages/astro/test/rewrite-overlapping-dynamic-routes.test.ts
+  s_977125af27853e::t_f677f0aac253d1 1-40
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/src/pages/[category]/index.astro
+  s_977125af27853e::t_639d1919cc8de4 1-6
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/src/pages/rewrite-me.astro
+  s_977125af27853e::t_ac16812ef05cc4 1
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/src/middleware.js
+  s_977125af27853e::t_622e4228b0302c 1-6
+packages/astro/test/units/routing/rewrite.test.ts
+  s_977125af27853e::t_a88a6c296f5bf3 5,201-284
+  s_977125af27853e::t_dba88d55614525 285
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/src/pages/[...slug].astro
+  s_977125af27853e::t_35b3f5f116a0ad 1-7
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/astro.config.mjs
+  s_977125af27853e::t_22e77f13ffaef0 1-5
+packages/astro/test/fixtures/rewrite-overlapping-dynamic-routes/package.json
+  s_977125af27853e::t_71cb5dcbe0a09a 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1bca7f9d34b9fe8e0aa33e04470ca54488d14da8",
+  "prompts": {},
+  "sessions": {
+    "s_977125af27853e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e843a899-0d4e-40a4-add8-ed9bb60276b5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Manuel <m@manuelgruber.com>"
+    }
+  }
+}
