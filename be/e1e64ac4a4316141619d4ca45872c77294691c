@@ -1,0 +1,19 @@
+packages/astro/test/units/routing/rewrite.test.ts
+  s_93495531635db2::t_3696de19b2baaa 292-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bee1e64ac4a4316141619d4ca45872c77294691c",
+  "prompts": {},
+  "sessions": {
+    "s_93495531635db2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a6aaaaf-af97-4ce3-8057-b934e1da5d37",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Manuel <m@manuelgruber.com>"
+    }
+  }
+}
