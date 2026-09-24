@@ -1,0 +1,21 @@
+packages/astro/src/core/routing/rewrite-validate.ts
+  s_93495531635db2::t_38b2d013e50063 12-15
+packages/astro/src/core/routing/rewrite.ts
+  s_93495531635db2::t_d1c8266defd10b 22,34,99-100,120-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ef3e701dce1fa3dda9c5fad1864463fc6bf459e7",
+  "prompts": {},
+  "sessions": {
+    "s_93495531635db2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a6aaaaf-af97-4ce3-8057-b934e1da5d37",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Manuel <m@manuelgruber.com>"
+    }
+  }
+}
