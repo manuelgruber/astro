@@ -1,0 +1,19 @@
+.changeset/rewrite-route-validation.md
+  s_93495531635db2::t_cd955feafcf9c4 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "808530c39bd47fb369cb81ca20e5f617bd54202c",
+  "prompts": {},
+  "sessions": {
+    "s_93495531635db2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8a6aaaaf-af97-4ce3-8057-b934e1da5d37",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Manuel <m@manuelgruber.com>"
+    }
+  }
+}
